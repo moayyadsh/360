@@ -8,17 +8,17 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/src/assets/core/Logo-192x192.webp",
+      "src": "/Logo-192x192.webp",
       "sizes": "192x192",
       "type": "image/webp"
     },
     {
-      "src": "/src/assets/core/Logo-512x512.webp",
+      "src": "/Logo-512x512.webp",
       "sizes": "512x512",
       "type": "image/webp"
     },
     {
-      "src": "/src/assets/core/Logo-192x192.png",
+      "src": "/Logo-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
