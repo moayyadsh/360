@@ -1,0 +1,19 @@
+.our_services {
+    // width: 100%;
+    // height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
+    background: red;
+    
+    // gap: 300px;
+    .single_service {
+        padding: 20px;
+        width: 20%;
+        
+        background: green;
+    }
+}
