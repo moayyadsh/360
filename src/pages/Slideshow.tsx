@@ -94,7 +94,7 @@ const Slideshow = () => {
       document.removeEventListener('mozfullscreenchange', handleFullscreenChange);
       document.removeEventListener('MSFullscreenChange', handleFullscreenChange);
     };
-  }, []);
+  }, [] );
 
   // Keyboard shortcuts
   useEffect(() => {
